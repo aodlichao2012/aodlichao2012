@@ -1,0 +1,10 @@
+F:\etc\งาน MVC vc# and web api\BasicDatabase\bin\Debug\netcoreapp2.0\BasicDatabase.deps.json
+F:\etc\งาน MVC vc# and web api\BasicDatabase\bin\Debug\netcoreapp2.0\BasicDatabase.runtimeconfig.json
+F:\etc\งาน MVC vc# and web api\BasicDatabase\bin\Debug\netcoreapp2.0\BasicDatabase.runtimeconfig.dev.json
+F:\etc\งาน MVC vc# and web api\BasicDatabase\bin\Debug\netcoreapp2.0\BasicDatabase.dll
+F:\etc\งาน MVC vc# and web api\BasicDatabase\bin\Debug\netcoreapp2.0\BasicDatabase.pdb
+F:\etc\งาน MVC vc# and web api\BasicDatabase\obj\Debug\netcoreapp2.0\BasicDatabase.csproj.CoreCompileInputs.cache
+F:\etc\งาน MVC vc# and web api\BasicDatabase\obj\Debug\netcoreapp2.0\BasicDatabase.AssemblyInfoInputs.cache
+F:\etc\งาน MVC vc# and web api\BasicDatabase\obj\Debug\netcoreapp2.0\BasicDatabase.AssemblyInfo.cs
+F:\etc\งาน MVC vc# and web api\BasicDatabase\obj\Debug\netcoreapp2.0\BasicDatabase.dll
+F:\etc\งาน MVC vc# and web api\BasicDatabase\obj\Debug\netcoreapp2.0\BasicDatabase.pdb
